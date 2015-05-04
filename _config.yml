@@ -1,1 +1,3 @@
-baseurl:/jekyll_demo
+branches:
+  only:
+    - gh-pages
